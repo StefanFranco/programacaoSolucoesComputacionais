@@ -1,6 +1,6 @@
 <?php
    $i = 1;
-   do{
+   do
      echo "<br>" . $i;
      if($i < 18){
           echo" = Menor de idade";
